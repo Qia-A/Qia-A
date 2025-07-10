@@ -38,7 +38,7 @@ https://github.com/Qia-A/Qia-A/blob/snk/github-contribution-grid-snake.svg -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qia-A/Qia-A/refs/heads/snk/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Qia-A/Qia-A/refs/heads/snk/github-contribution-grid-snake.svg">
 </picture>
-generated with(https://github.com/Platane/snk)
+generated with [Platane/snk](https://github.com/Platane/snk)
 
 ## 📬 联系方式
 
