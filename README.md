@@ -99,26 +99,6 @@ Sometimes government export control regulations and trade sanctions can constrai
 </details>
   -->
 
-### Statistics
-
-<details>
-<summary>Click to expand</summary>
-
-[![SunsetMkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHUA-Official&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=AHUA-Official&theme=transparent)](https://git.io/streak-stats) -->
-
-<!--<a href="https://gitroll.io/profile/up0e9TqeuU8RIZdY0PYx07zrDEXi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/up0e9TqeuU8RIZdY0PYx07zrDEXi2" alt="GitRoll Profile Badge"/></a>
--->
-
-![Moe Counter](https://count.getloli.com/get/@AHUA-Official)
-
-![](https://hit.yhype.me/github/profile?user_id=26019675)
-
-</details>
-
 ## 💻 技术栈详情
 
 <details>
