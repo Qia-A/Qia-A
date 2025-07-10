@@ -31,14 +31,14 @@
 ### Contribution Calendar
 
 <!--https://raw.githubusercontent.com/Qia-A/Qia-A/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" 
-https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid-snake.svg -->
+https://github.com/Qia-A/Qia-A/blob/snk/github-contribution-grid-snake.svg -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qia-A/Qia-A/refs/heads/snk/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qia-A/Qia-A/refs/heads/snk/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Qia-A/Qia-A/refs/heads/snk/github-contribution-grid-snake.svg">
 </picture>
-*generated with [Platane/snk](https://github.com/Platane/snk)
+generated with [Platane/snk](https://github.com/Platane/snk)
 
 ## 📬 联系方式
 
