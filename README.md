@@ -233,4 +233,4 @@ Sometimes government export control regulations and trade sanctions can constrai
 | 2021-2026                                                       | 🎓 大学生涯 | 在西安科技大学读计算机科学与技术 |
 | ![count](https://profile-counter.glitch.me/lxl66566/count.svg) --> |             |                                |
 
-![屏幕截图 2023-09-28 160238]([[https://github.com/AHUA-Official/AHUA-Official/blob/main/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-28%20160238.png](https://github.com/Qia-A/Qia-A/blob/main/assets/%E5%B0%BE%E5%9B%BE.png))](https://github.com/Qia-A/Qia-A/blob/main/assets/%E5%B0%BE%E5%9B%BE.png)
+[![屏幕截图 2023-09-28 160238](https://github.com/Qia-A/Qia-A/blob/main/assets/%E5%B0%BE%E5%9B%BE.png)]
