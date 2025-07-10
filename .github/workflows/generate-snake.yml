@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天更新
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # 每天执行一次（可改）
+  workflow_dispatch:      # 允许手动执行
 
 jobs:
   generate:
@@ -16,7 +16,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push to snk branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: snk
