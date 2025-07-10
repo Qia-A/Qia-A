@@ -44,9 +44,9 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 | 平台          | 信息               | 链接/账号                                                 |
 | ------------- | ------------------ | --------------------------------------------------------- |
-| 🐙 GitHub     | 开源项目与代码仓库 | [AHUA-Official](https://github.com/AHUA-Official)            |
+| 🐙 GitHub     | 开源项目与代码仓库 | [Qia-A](https://github.com/Qia-A)            |
 | 📧 Email      | 邮箱联系           | [y76521@126.com](mailto:y76521@126.com)    |
-| 🌐 个人博客   | 技术分享与思考     | [www.furinadefontaine.top](https://www.furinadefontaine.top) |
+| 🌐 个人博客   | 技术分享与思考     | 关注获取最新动态  |
 | 📱 微信公众号 | 乌云暮年 | 关注获取最新动态                                          |
 | 📝 语雀       | 知识库与文档       | [语雀空间](https://www.yuque.com/u26059954/nzh32x) |
 | QQ           |  	聊天						| 1651307045 |
@@ -61,7 +61,7 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 <div align="center">
 
-<img src="https://cardivo.vercel.app/api?name=Qia-A&description=你好，我是西安科技大学计算机科学与技术专业的一名学生，对Java、Linux、算法、设计模式、大型项目、AI深度学习方面有一定兴趣。&image=[image_url])/>
+<img src="https://cardivo.vercel.app/api?name=Qia-A&description=你好，我是西安科技大学计算机科学与技术专业的一名学生，对Java、Linux、算法、设计模式、大型项目、AI深度学习方面有一定兴趣。&image=https://github.com/Qia-A/Qia-A/blob/main/assets/head.jpg/>
 
 ![Moe Counter](https://count.getloli.com/get/@AHUA-Official)
 
@@ -213,7 +213,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 <details>
 <summary>点击查看致谢名单</summary>
 
-- [UESTC](https://www.uestc.edu.cn) - 电子科技大学是我的学校，谢谢我这么菜但我的学校还没有放弃我，也没有把我开除人籍
+- [XUST](https://www.xust.edu.cn/) - 西安科技大学1大学是我的学校，谢谢我这么菜但我的学校还没有放弃我，也没有把我开除人籍。
 - [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
 - [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
 - [Codeium](https://codeium.com/) - Excellent & free AI code completion solution.
@@ -233,4 +233,4 @@ Sometimes government export control regulations and trade sanctions can constrai
 | 2021-2026                                                       | 🎓 大学生涯 | 在西安科技大学读计算机科学与技术 |
 | ![count](https://profile-counter.glitch.me/lxl66566/count.svg) --> |             |                                |
 
-[![屏幕截图 2023-09-28 160238](https://github.com/Qia-A/Qia-A/blob/main/assets/%E5%B0%BE%E5%9B%BE.png)]
+![屏幕截图 2023-09-28 160238](https://github.com/Qia-A/Qia-A/blob/main/assets/%E5%B0%BE%E5%9B%BE.png)
