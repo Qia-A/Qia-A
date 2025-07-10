@@ -61,7 +61,7 @@ https://github.com/AHUA-Official/AHUA-Official/blob/snk/github-contribution-grid
 
 <div align="center">
 
-<img src="https://cardivo.vercel.app/api?name=Qia-A&description=你好，我是西安科技大学计算机科学与技术专业的一名学生，对Java、Linux、算法、设计模式、大型项目、AI深度学习方面有一定兴趣。&image=https://github.com/Qia-A/Qia-A/blob/main/assets/head.jpg/>
+<img src="https://cardivo.vercel.app/api?name=Qia-A&description=你好，我是西安科技大学计算机科学与技术专业的一名学生，对Java、Linux、算法、设计模式、大型项目、AI深度学习方面有一定兴趣。&image=https://github.com/Qia-A/Qia-A/blob/main/assets/head.jpg"/>
 
 ![Moe Counter](https://count.getloli.com/get/@AHUA-Official)
 
