@@ -47,7 +47,7 @@ https://github.com/Qia-A/Qia-A/blob/snk/github-contribution-grid-snake.svg -->
 | ------------- | ------------------ | --------------------------------------------------------- |
 | 🐙 GitHub     | 开源项目与代码仓库 | [Qia-A](https://github.com/Qia-A)            |
 | 📧 Email      | 邮箱联系           | [y76521@126.com](mailto:y76521@126.com)    |
-| 🌐 个人博客   | 技术分享与思考     | 关注获取最新动态  |
+| 🌐 个人博客   | 技术分享与思考     | [乌云暮年](blog.csdn.net/weixin_62473134?spm=1000.2115.3001.5343)  |
 | 📱 微信公众号 | 乌云暮年 | 关注获取最新动态                                          |
 | 📝 语雀       | 知识库与文档       | [语雀空间](https://www.yuque.com/u26059954/nzh32x) |
 | QQ           |  	聊天						| 1651307045 |
