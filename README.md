@@ -203,7 +203,7 @@ Sometimes government export control regulations and trade sanctions can constrai
 - [语雀](https://www.yuque.com/) - 语雀很好用
 - [GitHub](https://github.com/) - GitHub上面有很多高质量的项目来着
 - [AI工具集](https://openai.com/) - OpenAI、Claude、Gemini、DeepSeek、Kimi，没你们我写不出文档
-- [AHUA-Official](github.com/AHUA-Official/AHUA-Official) - 感谢大佬的个人仓库主页模板🙏🙏🙏
+- [AHUA-Official](https://github.com/AHUA-Official/AHUA-Official) - 感谢大佬的个人仓库主页模板🙏🙏🙏
 </details>
 
 ## 📖 简短的人生经历
