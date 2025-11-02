@@ -194,7 +194,6 @@ Sometimes government export control regulations and trade sanctions can constrai
 <details>
 <summary>点击查看致谢名单</summary>
 
-- [XUST](https://www.xust.edu.cn/) - 西安科技大学高新学院是我的母校，谢谢我这么菜但我的学校还没有放弃我。
 - [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
 - [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
 - [Codeium](https://codeium.com/) - Excellent & free AI code completion solution.
